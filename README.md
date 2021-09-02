@@ -9,4 +9,4 @@ This repository contains a fun yet spooky AR filter made on Spark AR with split 
 <a href = "https://www.facebook.com/fbcameraeffects/testit/599303721066608/ODNiZDZlMzNkYzdmMTgyYzkzYzljNjcxNGU0YTA3NzM=/" target="_blank">
 <img src="https://user-images.githubusercontent.com/77115160/131815500-b4cb3a68-1865-49c5-bca8-f135588907cb.png" width="25" height="25"></br>
 </div>
-<p>Open the links in a mobile device to test the effect.</p>
+<h5>P.S. - Open the links in a mobile device to test the effect.</h5>
