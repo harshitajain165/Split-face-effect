@@ -16,4 +16,4 @@ A fun yet spooky AR filter with split face and alpha mask effect made on Spark A
 
 
 
-<h5>P.S. - Open the links in a mobile device to try the effect.</h5>
+<h5 align= "center">P.S. - Open the links in a mobile device to try the effect.</h5>
